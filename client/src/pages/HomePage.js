@@ -170,7 +170,7 @@ const HomePage = () => {
                     </h5>
                   </div>
                   <p className="card-text ">
-                    {p.description.substring(0, 60)}...
+                    {p.description.substring(0, 40)}...
                   </p>
                   <div className="card-name-price">
                     <button
